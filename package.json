@@ -1,0 +1,25 @@
+{
+  "name": "eweb",
+  "version": "1.0.0",
+  "description": "css javascript",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjw2011/eweb.git"
+  },
+  "keywords": [
+    "easy",
+    "css",
+    "javascript",
+    "js"
+  ],
+  "author": "sanye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zjw2011/eweb/issues"
+  },
+  "homepage": "https://github.com/zjw2011/eweb#readme"
+}
